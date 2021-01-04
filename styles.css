@@ -1,0 +1,32 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    font-family: 'Brush Script MT', cursive;
+    font-size: xx-large;
+    color: white;
+}
+
+.containerTwee {
+    font-family: 'Courier New', monospace;
+    color: white;
+}
+
+
+body {
+    background-image: url(nieuwjaar.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
